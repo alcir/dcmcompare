@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/home/alessio/tmp/dcmqrprova/lib/dcmqrprova.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Dcmqr2/descr.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/Dcmqr2/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/Dcmqr2/doc"/>
+        <file path="/Dcmqr2/descr.jardesc"/>
+        <javaElement handleIdentifier="=Dcmqr2/src"/>
+        <file path="/Dcmqr2/.classpath"/>
+        <file path="/Dcmqr2/manifest"/>
+        <file path="/Dcmqr2/.project"/>
+    </selectedElements>
+</jardesc>
