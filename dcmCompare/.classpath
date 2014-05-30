@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/dcm4che-core-2.0.26.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/dcm4che-iod-2.0.26.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/dcm4che-net-2.0.26.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/dcm4che-tool-dcmqr-2.0.26.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/dcmcompare.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/alessio/tmp/dcmcompare/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
